@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maktabkhoone-resume/static/css/main.73d7209c.css",
+    "main.js": "/maktabkhoone-resume/static/js/main.b42b309c.js",
+    "static/js/453.f19e9853.chunk.js": "/maktabkhoone-resume/static/js/453.f19e9853.chunk.js",
+    "static/media/css3.png": "/maktabkhoone-resume/static/media/css3.dbae97ea94ccd89d303e.png",
+    "static/media/brush.png": "/maktabkhoone-resume/static/media/brush.e9e1ba6236542b6b3c59.png",
+    "index.html": "/maktabkhoone-resume/index.html",
+    "main.73d7209c.css.map": "/maktabkhoone-resume/static/css/main.73d7209c.css.map",
+    "main.b42b309c.js.map": "/maktabkhoone-resume/static/js/main.b42b309c.js.map",
+    "453.f19e9853.chunk.js.map": "/maktabkhoone-resume/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d7209c.css",
+    "static/js/main.b42b309c.js"
+  ]
+}
