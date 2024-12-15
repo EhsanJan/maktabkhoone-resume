@@ -1,0 +1,45 @@
+{
+  "title": "Hello, I'm Ehsan!",
+  "subtitle": "Narator | IT man",
+  "link": {
+    "github": "https://github.com/EhsanJan",
+    "stackoverflow": "https://stackoverflow.com/users/3818929/ehsan",
+    "linkedin": "https://linkedin.com/in/ehsan-sabour-jannati-790215199",
+    "google": ""
+  },
+
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "title": "skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "title": "HTML5"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "CSS3"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "JavaScript"
+          }
+        }
+      ]
+    }
+  ]
+}

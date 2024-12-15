@@ -1,0 +1,25 @@
+.navigation {
+    position: fixed;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    display: block;
+    padding: 20px;
+}
+
+.navigation nav ul li {
+    display: inline-block;
+    width: 120px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15pt;
+    font-weight: 300;
+    color: #fff;
+    transition: 0.3s;
+}
+
+.navigation nav ul li:hover {
+    transform: scale(1.5);
+    font-weight: 350;
+    text-decoration: underline;
+}

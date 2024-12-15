@@ -1,0 +1,18 @@
+.brush {
+    position: fixed;
+    background-image: url("../icons/brush.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    cursor: pointer;
+    background-size: 100%;
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    left: 20px;
+    transition: 0.9s;
+}
+
+.brush:hover {
+    transform: rotate(350deg);
+}

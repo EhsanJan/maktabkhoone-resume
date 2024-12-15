@@ -1,0 +1,29 @@
+.fullpage {
+    width: 99vw;
+    height: 100vh;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.icon-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    margin: 10px;
+}
+
+p {
+    font-size: 20pt;
+    margin: 0 10%;
+    text-align: justify;
+    line-height: 40px;
+    letter-spacing: 5px;
+}

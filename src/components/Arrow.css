@@ -1,0 +1,40 @@
+.arrow {
+    opacity: 50%;
+    background-size: 100%;
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    background-image: url("../icons/down.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    transition: 0.5s;
+}
+
+.arrow:hover {
+    transform: scale(1.1);
+    opacity: 80%;
+}
+
+.arrow2 {
+    opacity: 50%;
+    background-size: 100%;
+    position: fixed;
+    bottom: 60px;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    background-image: url("../icons/up.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 0.5s;
+}
+
+.arrow2:hover {
+    transform: scale(1.1);
+    opacity: 80%;
+}
